@@ -18,3 +18,6 @@ body{
 #tasklist::-webkit-scrollbar{
     display:none;
 }
+#TaskList::-webkit-scrollbar{
+    display:none;
+}
